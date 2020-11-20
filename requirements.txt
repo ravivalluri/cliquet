@@ -1,4 +1,4 @@
-colander==1.2
+colander==1.7.0
 colorama==0.3.7
 contextlib2==0.5.3
 cornice==1.2.1
