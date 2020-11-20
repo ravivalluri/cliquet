@@ -14,7 +14,7 @@ python-dateutil==2.5.3
 raven==5.17.0
 redis==2.10.5
 repoze.lru==0.6
-requests==2.10.0
+requests==2.20.0
 simplejson==3.8.2
 six==1.10.0
 SQLAlchemy==1.0.13
